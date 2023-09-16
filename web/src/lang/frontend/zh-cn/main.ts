@@ -1,0 +1,36 @@
+export default {
+    "High-quality Corosion-resistant" : "High-quality Corosion-resistant",
+    "Expert in the Fine Chemical Industry For Heat Exchangers World Wide" : "Expert in the Fine Chemical Industry For Heat Exchangers World Wide",
+    "Heat Exchangers" : "Heat Exchangers",
+    "Longer Lifespan" : "Longer Lifespan",
+    "Higher Efficiency" : "Higher Efficiency",
+    "Less Downtime" : "Less Downtime",
+    "Wider Range of Applications" : "Wider Range of Applications",
+    "Contact Our Experts Now" : "Contact Our Experts Now",
+    "Heat Exchanger" : "If your ",
+    "are from" : "are from...",
+    "If your current" : "If your current",
+    "heat exchanger is" : "heat exchanger is...",
+    "if your process" : "If your process",
+    "medium contains" : "medium contains...",
+    "This is the right choice for you!" : "This is the perfect choice for you!",
+    "We offer products that are most suitable for you" : "We provide products that are specifically tailored to meet your needs!",
+    "PATENT" : "PATENTS",
+    "with 30 years of professional heat exchanger" : "With 30 years of professional experience in",
+    "manufacturing experience,every patent" : "heat exchanger manufacturing, each patent",
+    "represents our attitude towards this work" : "represents our unwavering commitment to this field of work.",
+    "COOPERATE" : "CLIENTS",
+    "Our customers are spread across china" : "Our customer base extends throughout China,",
+    "and now we are ready to embark on a" : "and we are now prepared to embark on",
+    "new journey to meet you around the" : "a new journey to connect with you",
+    "world" : "worldwide",
+    "SOCIAL MEDIA" : "SOCIAL MEDIA",
+    "Our customers are spread acrocss China to meet you around the world" : "Our workshops are equipped with advanced technology and facilities.",
+    "Our team consists of highly skilled professionals with extensive expertise" : "Our team consists of highly skilled professionals with extensive expertise.",
+    "Our customer base spans across the globe, reaching international markets" : "Our customer base spans across the globe, reaching international markets.",
+    "We are committed to providing unparalleled service, ensuring customer satisfaction" : "We are committed to providing unparalleled service, ensuring customer satisfaction.",
+
+}
+
+
+
